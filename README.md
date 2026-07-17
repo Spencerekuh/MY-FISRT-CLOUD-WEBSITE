@@ -1,4 +1,0 @@
-# MY-FISRT-CLOUD-WEBSITE
-EKUH SPENCER CHUKWUNONSUE
-U2021/3020024
-This website was deployed by github
